@@ -3,7 +3,7 @@
 [![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-camiz%C3%A3o/)
 [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Caiocamizao)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/camizaocomz/)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Caiocamizao/pens/popular)
+[![DIO](https://img.shields.io/badge/DIO-1C1C1C?style=for-the-badge&logo=dio&logoColor=white)](https://www.dio.me/users/caio_quimica2013)
 
 ![CaioCamizao GitHub stats](https://github-readme-stats.vercel.app/api?username=caiocamizao&show_icons=true&theme=merko)
 
